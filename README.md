@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center"><b>⏾⋆.˚ デッドプロセス ⏾⋆.˚</b></h1>
 
-<!--
-**deadprocess/deadprocess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/deadprocess/deadprocess/refs/heads/main/assets/github_icon.jpg" alt="デッドプロセス" width="600" style="border-radius:15px;">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>/•᷅‎‎•᷄\੭ About me \\ 私について</h2>
+
+- Currently learning the C programming language
+- Working my way through K&R's book "The C programming language"
+- Interested in C
+- Passionate about learning
