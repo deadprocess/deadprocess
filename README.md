@@ -9,6 +9,5 @@
 <h2>/•᷅‎‎•᷄\੭ About me \\ 私について</h2>
 
 - Currently learning the C programming language
-- Working my way through K&R's book "The C programming language"
 - Interested in C
 - Passionate about learning
